@@ -1,4 +1,4 @@
-# Cloudflare-workers/pages代理脚本【目前版本：25.5.4】
+# Cloudflare-workers/pages代理脚本【感谢勇哥】
 ------------------------------------------------
 
 
